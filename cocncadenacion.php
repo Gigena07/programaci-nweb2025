@@ -2,6 +2,10 @@
 
 $emisora = 'radio disney';
 echo "me gusta escuchar $emisora";
+
+$emisora = 'radio disney';
+echo 'megusta escuchar $emisora';
+
 /*En términos sencillos, las comillas simples (') y las comillas dobles (") en PHP se usan para encerrar texto, pero tienen algunas diferencias clave:
 
 Comillas simples: El texto entre comillas simples se toma literalmente tal cual. Si escribes algo dentro de ellas, PHP no va a tratar de interpretar nada. No entiende variables ni símbolos especiales como saltos de línea o tabulaciones.
